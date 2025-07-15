@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /*?*
+
+# Sitemap
+Sitemap: https://lekas.com/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1 
